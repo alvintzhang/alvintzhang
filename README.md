@@ -8,7 +8,7 @@
 - 📈 Currently exploring: AI agents, genomics, and machine learning.
 
 ### 📌 Key Projects
-- [`shortreadrna-seq`](https://github.com/alvintzhang/shortreadrna-seq): Comparative evaluation of STAR, HISAT2, and Minimap2 for short-read RNA-seq, with CIGAR string accuracy metrics using long-read subreads.
+- [`shortreadRNAalignercomparison`]([https://github.com/alvintzhang/shortreadRNAalignercomparison]): Comparative evaluation of STAR, HISAT2, and Minimap2 for short-read RNA-seq, with CIGAR string accuracy metrics using long-read subreads.
 - `leetcode`: My growing problem-solving archive, reflecting my commitment to algorithmic thinking and efficient code design.
 
 ### 🧰 Tech Stack
