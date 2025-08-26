@@ -11,6 +11,7 @@
 ### 📌 Key Projects
 - [`shortreadRNAalignercomparison`](https://github.com/alvintzhang/shortreadRNAalignercomparison): Comparative evaluation of STAR, HISAT2, and Minimap2 for short-read RNA-seq, with CIGAR string accuracy metrics using long-read subreads.
 - `leetcode`: My growing problem-solving archive, reflecting my commitment to algorithmic thinking and efficient code design.
+- 'FAVORannotator Agent'
 
 ### Tech Stack
 - Python (pysam, pandas, matplotlib, numpy, etc)
