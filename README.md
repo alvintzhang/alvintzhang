@@ -23,4 +23,4 @@ I'm an incoming freshman at the University of Chicago, intending on studying eit
 
 ### Get in Touch
 - Email: [alvinzhangpersonal@gmail.com](mailto:alvinzhangpersonal@gmail.com) | [atzhang@mxschool.edu](mailto:atzhang@mxschool.edu)
-- LinkedIn: [Alvin Zhang](www.linkedin.com/in/alvin-zhang-b261b22a7)
+- LinkedIn: [Alvin Zhang](www.linkedin.com/in/alvinttzhang)
